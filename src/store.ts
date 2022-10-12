@@ -1,6 +1,5 @@
 import { combineReducers } from "redux";
 import thunk from "redux-thunk";
-//import { composeWithDevTools } from "redux-devtools-extension";
 import { configureStore, PreloadedState, StateFromReducersMapObject } from '@reduxjs/toolkit';
 
 import {
